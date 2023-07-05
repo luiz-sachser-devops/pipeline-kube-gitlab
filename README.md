@@ -18,7 +18,7 @@ _[Kubernetes in Docker](https://docs.docker.com/desktop/kubernetes/)_.
 4. A bastion host was created to deploy the app via CI/CD pipeline;
 
 
-### Steps to run the example.
+### Steps to run the example
 
 1. Connect to the GCP account and create the cluster;
 2. Run the script.sh file to deploy services and pods;
